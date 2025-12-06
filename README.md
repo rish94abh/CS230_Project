@@ -5,3 +5,4 @@ There are currently two jupyter notebooks in this repository.
 4. A trained model can then be used to generate segmentation masks for new images.
 5. sem0006.png is a sample SEM image which can be used for training.
 6. Google Drive link with code and dataset: https://drive.google.com/drive/folders/1aQWwCjK9efQi_z8K6F-eji8ZUTvDeqSq?usp=share_link
+IoU results: https://docs.google.com/spreadsheets/d/1jJR-0lc4QoSTkFiihYlUpDPe0hqFIwOIv2ERfTwuLlk/edit?usp=sharing
